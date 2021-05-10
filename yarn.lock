@@ -11137,10 +11137,10 @@ word-wrap@^1.2.3, word-wrap@~1.2.3:
   resolved "https://registry.yarnpkg.com/word-wrap/-/word-wrap-1.2.3.tgz#610636f6b1f703891bd34771ccb17fb93b47079c"
   integrity sha512-Hz/mrNwitNRh/HUAtM/VT/5VH+ygD6DV7mYKZAtHOrbs8U7lvPS6xf7EJKMF0uW1KJCl0H701g3ZGus+muE5vQ==
 
-wordpress-shortcode-webpack-plugin@^0.0.13:
-  version "0.0.13"
-  resolved "https://registry.yarnpkg.com/wordpress-shortcode-webpack-plugin/-/wordpress-shortcode-webpack-plugin-0.0.13.tgz#a0e354e4d1b62c5a191794d7a14f23ffc9933e92"
-  integrity sha512-qNd2LeC3mc9/TUiGXOpr+UJebWUXHJsFKHAjaMUEEIkTIRSJM7dZ3y6ln1vXNgi+gm87CMj+Fo3suWMJ05z/vQ==
+wordpress-shortcode-webpack-plugin@^0.0.17:
+  version "0.0.17"
+  resolved "https://registry.yarnpkg.com/wordpress-shortcode-webpack-plugin/-/wordpress-shortcode-webpack-plugin-0.0.17.tgz#e95ec96bbe4d626531e689a7dcfe152a3e0f7540"
+  integrity sha512-0cMkFX9NuLrr1diEb7QsYs46Hz4oNyYDRvXvpd7fAImD/cOCHqAuFDeuXwXybVtnno4DFhrbJ5tiGGiPAFkjDA==
   dependencies:
     uuid "^8.3.2"
     webpack-manifest-plugin "^3.1.1"

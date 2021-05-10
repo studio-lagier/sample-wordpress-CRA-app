@@ -37,6 +37,7 @@
   },
   "devDependencies": {
     "react-app-rewired": "^2.1.8",
-    "wordpress-shortcode-webpack-plugin": "^0.0.13"
-  }
+    "wordpress-shortcode-webpack-plugin": "^0.0.17"
+  },
+  "homepage": "/wp-content/plugins/my-plugin/assets/"
 }
